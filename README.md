@@ -75,8 +75,15 @@ The primary objectives of this system are:
 
 ---
 <br>
+## 6. UI/UX Design (Figma)
+The user interface of the **Lecture Hall Management System (Timelyx)** was meticulously designed to ensure high usability and role-based accessibility. You can explore the interactive prototypes and interface designs via the link below:
 
-## 6. System Architecture
+| Resource | Link |
+| :--- | :--- |
+| **Interactive Prototype** | [👉 View on Figma](https://www.figma.com/make/JsOzY4JOtzUMCcI3nKksVA/Improve-Lecture-Hall-Interface?fullscreen=1&t=ol1IZBhOEyUKdWba-1) |
+
+---
+## 7. System Architecture
 
 The system follows a **client–server architecture**:
 
@@ -91,7 +98,7 @@ This architecture promotes **low coupling**, **high cohesion**, and future scala
 ---
 <br>
 
-## 7. Repository Structure
+## 8. Repository Structure
 
 ```text
 Lecture-hall-management/
@@ -138,7 +145,7 @@ Lecture-hall-management/
 ---
 <br>
 
-## 8. Software Engineering Practices Followed
+## 9. Software Engineering Practices Followed
 
 - Agile development using Scrum
 - Sprint-based development with weekly reviews
@@ -151,7 +158,7 @@ Lecture-hall-management/
 ---
 <br>
 
-## 9. Non-Functional Requirements (Summary)
+## 10. Non-Functional Requirements (Summary)
 
 - **Usability**: Simple and intuitive interfaces
 - **Performance**: Fast response under normal load
@@ -161,7 +168,7 @@ Lecture-hall-management/
 ---
 <br>
 
-## 10. Installation and Setup
+## 11. Installation and Setup
 
 ### Prerequisites
 - Node.js (LTS)
@@ -205,7 +212,7 @@ npm run dev
 ---
 <br>
 
-## 11. API Overview (High Level)
+## 12. API Overview (High Level)
 
 - `POST /api/auth/login` – User authentication
 - `GET /api/halls` – Retrieve lecture halls
@@ -215,7 +222,7 @@ npm run dev
 ---
 <br>
 
-## 12. Testing Strategy
+## 13. Testing Strategy
 
 - Unit testing for backend services
 - Integration testing for scheduling logic
@@ -225,7 +232,7 @@ npm run dev
 ---
 <br>
 
-## 13. Project Management
+## 14. Project Management
 
 - Scrum-based development
 - Weekly sprint planning and reviews
@@ -235,14 +242,14 @@ npm run dev
 ---
 <br>
 
-## 14. Contributors
+## 15. Contributors
 
 Developed by a student team as part of the **Software Engineering** module, Faculty of Engineering.
 
 ---
 <br>
 
-## 15. Academic Disclaimer
+## 16. Academic Disclaimer
 
 This project is developed strictly for academic purposes and learning outcomes of the Software Engineering course.
 
